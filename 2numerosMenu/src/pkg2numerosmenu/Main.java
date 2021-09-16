@@ -1,0 +1,19 @@
+
+
+package pkg2numerosmenu;
+
+import java.util.Scanner;
+
+public class Main {
+
+  
+    public static void main(String[] args) {
+       Scanner sc = new Scanner (System.in);
+       
+       int N1,N2;
+       double 
+       
+       
+    }
+    
+}
